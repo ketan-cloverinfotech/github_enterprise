@@ -12,6 +12,8 @@ az vm create \
   --location eastus
 ```
 **Note: You have change vm type and attach disk size of 150GB with specail SSD**
+
+
 you will get following error even when you attach secondary disk,
 
 ![Screenshot 2025-06-26 164308](https://github.com/user-attachments/assets/e910ab03-7638-40cc-8629-1509f3b13575)
